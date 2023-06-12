@@ -1,0 +1,55 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section {
+    padding: 80px 0;
+    text-align: center;
+  }
+  
+  /* Homepage styles */
+  #home {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Classes page styles */
+  #classes {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  /* Contact page styles */
+  #contact {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  /* Navbar styles */
+  .navbar {
+    background-color: #333;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: #fff !important;
+  }
+  
+  .nav-link:hover {
+    color: #ccc !important;
+  }
