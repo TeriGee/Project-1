@@ -1,39 +1,49 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Gojo Gym Website
 
-Welcome,
+This is a responsive 3-page front-end website for Gojo Gym built using Bootstrap and CSS styling. The website includes a homepage, classes page, and contact page. It is designed to showcase information about Gojo Gym, its classes, and provide a way for users to get in touch.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Table of Contents
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Codeanywhere Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- Responsive layout for optimal viewing on different devices
+- Navbar with links to the homepage, classes page, and contact page
+- Homepage with a welcoming message
+- Classes page to display information about available classes
+- Contact page with a form to submit messages
 
-`python3 -m http.server`
+## Testing
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-`http_server`
+## Installation
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+To run the Gojo Gym website locally, follow these steps:
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+1. Clone this repository to your local machine or download the source code as a ZIP file.
+2. Ensure you have Bootstrap v4.5.2 included in your project. You can link to the Bootstrap CDN in the HTML file if you haven't already.
+3. Customize the content and styling in the HTML and CSS files to meet your requirements.
+4. Replace the image files in the `img` folder with your own images or update the file paths accordingly.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Usage
 
-To log into the Heroku toolbelt CLI:
+1. Open the `index.html` file in your web browser to access the homepage.
+2. Navigate to the different pages using the links in the navbar.
+3. Explore the classes page to learn about the available classes and click on the "Learn More" buttons for additional details.
+4. Visit the contact page to submit a message using the provided form.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Contributing
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Contributions to improve the Gojo Gym website are welcome! If you have any suggestions, bug fixes, or enhancements, please submit a pull request. 
 
----
+## License
 
-Happy coding!
+This project is licensed under the [MIT License](LICENSE).
