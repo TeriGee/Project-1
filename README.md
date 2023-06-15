@@ -5,6 +5,7 @@ This is a responsive 3-page front-end website for Gojo Gym built using Bootstrap
 ## Table of Contents
 
 - [Features](#features)
+- [Testing](#testing)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
